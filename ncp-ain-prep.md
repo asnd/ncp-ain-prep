@@ -55,6 +55,7 @@ The last four are named in the study guide as recommended optional training or s
 - **Best structured preparation:** Cumulus Linux Essentials, InfiniBand Essentials, InfiniBand Network Administration, and Spectrum-X Networking Platform Administration.
 - **Use selectively:** the PDF's long reading list. Several links target old Cumulus, MLNX-OS, NetQ, or Network Operator releases. Study the named concept, but use current product documentation for commands.
 - **Practice questions:** the two NVIDIA certification webinars linked in [the discount tracker](DISCOUNTS.md) show sample questions. No official public NCP-AIN practice exam was found.
+- **Udemy:** see the [verified Udemy inventory](UDEMY.md) for one taught course and nine practice-test listings. They are third-party supplements, not official NVIDIA preparation or substitutes for labs.
 
 ### Design and AI-fabric reading
 
@@ -162,3 +163,4 @@ The last four are named in the study guide as recommended optional training or s
 - [Spectrum-X Network Platform Administration outline](https://academy.nvidia.com/en/wp-content/uploads/2025/06/Spectrum-X-Networking-Platform-Administration-2024.pdf)
 - [InfiniBand Network Administration outline](https://academy.nvidia.com/en/wp-content/uploads/2026/01/InfiniBand-Network-Administration-Outline.pdf)
 - [Discounts and free-exam tracker](DISCOUNTS.md)
+- [Verified Udemy resources and assessment](UDEMY.md)

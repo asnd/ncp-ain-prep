@@ -39,6 +39,7 @@ The highest-value preparation is real server bring-up and cluster validation: 64
 - **Best lower-cost foundation:** AI Infrastructure & Operations Fundamentals, followed by the free BCM lab described below. Fundamentals targets the associate-level foundation and is not sufficient by itself for NCP-AII.
 - **Reading list:** authoritative for scope but broad and partially versioned. Prioritize DGX/HGX bring-up, BCM, SMI/NVSM/DCGM, BlueField/MIG, Container Toolkit, NCCL/HPL/ClusterKit, cabling, and storage in blueprint order.
 - **Practice questions:** NVIDIA's infrastructure-certification webinar in [the discount tracker](../DISCOUNTS.md) includes sample questions. No official public NCP-AII practice exam was found.
+- **Udemy:** see the [verified Udemy inventory](../UDEMY.md) for one taught course, five relevant practice-test listings, and one misleading listing to avoid. These are unofficial supplements, not replacements for NVIDIA training or labs.
 
 ### Study-guide reading list
 
@@ -118,6 +119,8 @@ For a study lab, build one head-node VM and two compute-node VMs on an isolated 
 The two certifications overlap around AI-factory topology, BlueField, InfiniBand, NCCL, and troubleshooting, but the lab requirements are different. DSX Air is useful for NCP-AIN Ethernet practice; it is not a substitute for NCP-AII server bring-up or GPU-cluster validation.
 
 See [discounts and free-exam opportunities](../DISCOUNTS.md) before purchasing an exam or workshop.
+
+See the [verified Udemy resources and assessment](../UDEMY.md) before purchasing a third-party course or question bank.
 
 ## Verification notes
 

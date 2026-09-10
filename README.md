@@ -6,6 +6,7 @@ This repository covers two different NVIDIA professional certifications:
 
 - [NCP-AIN — AI Networking](ncp-ain-prep.md): Spectrum-X, InfiniBand, Network Operator, troubleshooting, and automation.
 - [NCP-AII — AI Infrastructure](ncp-aii/README.md): server bring-up, cluster control plane, validation, burn-in, and optimization.
+- [Verified Udemy resources](UDEMY.md): exact live listings, course-format checks, blueprint-fit assessment, and quality warnings.
 - [Exam discounts and free-exam opportunities](DISCOUNTS.md): dated, verified offers and availability notes.
 
 ## Lab recommendation at a glance
